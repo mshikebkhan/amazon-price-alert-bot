@@ -1,6 +1,8 @@
 <h2>Amazon Price Tracker</h2>  
 <p>Amazon Price Tracker is a simple yet powerful tool designed to help you track product prices on Amazon and get notified when they drop. Whether you're shopping for yourself or tracking prices for a friend, this app ensures you never miss a great deal!</p>  
 
+<hr>
+
 <h3>Key Features</h3>  
 <ul>  
     <li>💰 <b>Automatic Price Tracking</b> – Enter an Amazon product URL, set your desired price, and let the app do the rest.</li>  
@@ -9,6 +11,8 @@
     <li>📊 <b>User-Friendly Interface</b> – Simple and clean UI for easy setup and tracking.</li>  
     <li>⚙ <b>Runs in the Background</b> – The app automatically checks for price updates every hour.</li>  
 </ul>  
+
+<hr>
 
 <h3>Technologies:</h3>  
 <ul>  
