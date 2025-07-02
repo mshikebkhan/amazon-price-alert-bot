@@ -13,7 +13,7 @@ By automating price checks and sending real-time alerts, it helps users save mon
 
 ## 💻 Download for Windows
 
-🔗 [Download Now!](https://github.com/yourusername/amazon-price-tracker/releases/download/v1.0.0/AmazonPriceTracker.exe)
+🔗 [Download Now!](https://github.com/yourusername/amazon-price-alert-bot/releases/download/v1.0.0/AmazonPriceAlertBOTSetup.exe)
 
 ---
 
