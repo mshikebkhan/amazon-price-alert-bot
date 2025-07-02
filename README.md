@@ -51,9 +51,6 @@ By automating price checks and sending real-time alerts, it helps users save mon
 ```bash
 git clone https://github.com/mshikebkhan/amazon-price-tracker.git
 cd amazon-price-alert-bot
-python -m venv venv
-venv\Scripts\activate         # For Windows
-pip install -r requirements.txt
 python main.py
 ```
 ---
