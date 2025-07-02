@@ -70,8 +70,9 @@ python main.py
 
 ## 📌 TODO Ideas
 
-- Add clicking sounds to buttons
-- Add desktop notification
+- Add desktop pop-up notifications
+- Add support for Flipkart or other sites
+- Show product image, current price, or graph
 - Or anything else you think of!
 
 ---
