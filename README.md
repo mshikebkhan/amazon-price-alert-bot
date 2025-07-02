@@ -13,7 +13,7 @@ By automating price checks and sending real-time alerts, it helps users save mon
 
 ## 💻 Download for Windows
 
-🔗 [Download Now!](https://github.com/yourusername/amazon-price-alert-bot/releases/download/v1.0.0/AmazonPriceAlertBOTSetup.exe)
+🔗 [Download Now!](https://github.com/mshikebkhan/amazon-price-alert-bot/releases/download/v1.0.0/AmazonPriceAlertBOTSetup.exe)
 
 ---
 
@@ -21,7 +21,7 @@ By automating price checks and sending real-time alerts, it helps users save mon
 
 💸 **Automatic Price Tracking** – Enter the product URL, set your desired price, and let the app track it for you.  
 📩 **Email Notifications (Optional)** – Receive alerts via email when the price drops — even on behalf of a friend.  
-🔔 **Desktop Notifications** – Get real-time popup alerts without checking your inbox.  
+🔔 **Desktop Notifications** – Get real-time pop-up alerts without checking your inbox.  
 🧠 **User-Friendly Interface** – Simple GUI built with Tkinter for quick setup.  
 🔄 **Background Checks** – Automatically checks prices every hour without user input.  
 🔐 **Optional Email Config** – Custom email support with secure SMTP configuration.
