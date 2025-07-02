@@ -1,6 +1,6 @@
-# 💰 Amazon Price Tracker – Catch the Best Deals Automatically
+# 💰 Amazon Price Alert BOT – Catch the Best Deals Automatically
 
-**Amazon Price Tracker** is a powerful yet simple desktop app that helps you monitor product prices on Amazon and get alerted when they drop.  
+**Amazon Price Alert BOT** is a powerful yet simple desktop app that helps you monitor product prices on Amazon and get alerted when they drop.  
 Whether you're tracking for yourself or someone else, this tool ensures you never miss out on a great deal again!
 
 ---
@@ -50,7 +50,7 @@ By automating price checks and sending real-time alerts, it helps users save mon
 
 ```bash
 git clone https://github.com/mshikebkhan/amazon-price-tracker.git
-cd amazon-price-tracker
+cd amazon-price-alert-bot
 python -m venv venv
 venv\Scripts\activate         # For Windows
 pip install -r requirements.txt
@@ -71,7 +71,7 @@ python main.py
 ## 📌 TODO Ideas
 
 - Add clicking sounds to buttons
-- Add an alarm when the timer ends
+- Add desktop notification
 - Or anything else you think of!
 
 ---
