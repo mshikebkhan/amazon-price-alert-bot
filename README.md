@@ -1,24 +1,85 @@
-<h2>Amazon Price Tracker</h2>  
-<p>Amazon Price Tracker is a simple yet powerful tool designed to help you track product prices on Amazon and get notified when they drop. Whether you're shopping for yourself or tracking prices for a friend, this app ensures you never miss a great deal!</p>  
+# 💰 Amazon Price Tracker – Catch the Best Deals Automatically
 
-<hr>
+**Amazon Price Tracker** is a powerful yet simple desktop app that helps you monitor product prices on Amazon and get alerted when they drop.  
+Whether you're tracking for yourself or someone else, this tool ensures you never miss out on a great deal again!
 
-<h3>Key Features</h3>  
+---
 
-💰 <b>Automatic Price Tracking</b> – Enter an Amazon product URL, set your desired price, and let the app do the rest.
-📩 <b>Email Notifications (Optional</b> – Get an email alert when the price drops. You can also specify a different email for tracking on behalf of a friend.
-🔔 <b>Desktop Notifications</b> – You can receive real-time desktop notifications if you don’t want email alerts.
-📊 <b>User-Friendly Interface</b> – Simple and clean UI for easy setup and tracking.
-⚙ <b>Runs in the Background</b> – The app automatically checks for price updates every hour.
+**The Mission:**  
+This app is built to take the stress out of bargain hunting.  
+By automating price checks and sending real-time alerts, it helps users save money while staying productive — no need to keep refreshing Amazon pages!
 
-<hr>
+---
 
-<h3>Technologies:</h3>  
+## 💻 Download for Windows
 
-🐍 <b>Python</b> (Backend)
-📦 <b>BeautifulSoup</b> (Web Scraping)
-📩 <b>smtplib</b> (Email Notifications) 
-🖥 <b>Tkinter</b> (GUI)
- 
+🔗 [Download Now!](https://github.com/yourusername/amazon-price-tracker/releases/download/v1.0.0/AmazonPriceTracker.exe)
 
-<p>🚀 <b>Stay ahead of price drops and grab the best deals with Amazon Price Tracker!</b></p>  
+---
+
+## 🚀 Features
+
+💸 **Automatic Price Tracking** – Enter the product URL, set your desired price, and let the app track it for you.  
+📩 **Email Notifications (Optional)** – Receive alerts via email when the price drops — even on behalf of a friend.  
+🔔 **Desktop Notifications** – Get real-time popup alerts without checking your inbox.  
+🧠 **User-Friendly Interface** – Simple GUI built with Tkinter for quick setup.  
+🔄 **Background Checks** – Automatically checks prices every hour without user input.  
+🔐 **Optional Email Config** – Custom email support with secure SMTP configuration.
+
+---
+
+## 📸 Screenshots
+
+| Screenshot | Description |
+|------------|-------------|
+| ![Main](screenshots/main_window.PNG) | Main Window – Input Amazon URL and set target price |
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Python  
+- **GUI:** Tkinter  
+- **Scraping:** BeautifulSoup (from `bs4`)  
+- **Notifications:** `smtplib`, desktop popup  
+- **Build Tool:** PyInstaller
+
+---
+
+## ⚙️ Local Setup
+
+```bash
+git clone https://github.com/mshikebkhan/amazon-price-tracker.git
+cd amazon-price-tracker
+python -m venv venv
+venv\Scripts\activate         # For Windows
+pip install -r requirements.txt
+python main.py
+```
+---
+
+## 👥 Contributing
+
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature-name`
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request 🚀
+
+---
+
+## 📌 TODO Ideas
+
+- Add clicking sounds to buttons
+- Add an alarm when the timer ends
+- Or anything else you think of!
+
+---
+
+## 📄 License
+
+[MIT License](LICENSE)
+
+---
+
+Made with ❤️ by Shikeb Khan
